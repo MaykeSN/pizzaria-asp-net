@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas C#\\ProjetoPizzaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\views\\pizza\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\views\\pizza\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\services\\pizza\\ipizzainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\services\\pizza\\ipizzainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\services\\pizza\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\services\\pizza\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|c:\\programas c#\\projetopizzaria\\projetopizzaria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417528EF-F8D5-4989-A7B4-288F741E9400}|ProjetoPizzaria\\ProjetoPizzaria.csproj|solutionrelative:projetopizzaria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\appsettings.json",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\appsettings.json",
+              "RelativeToolTip": "ProjetoPizzaria\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T13:08:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Program.cs",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Program.cs",
+              "RelativeToolTip": "ProjetoPizzaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:55:01.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjetoPizzaria\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T10:39:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Views\\Pizza\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Views\\Pizza\\Detalhes.cshtml",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Views\\Pizza\\Detalhes.cshtml",
+              "RelativeToolTip": "ProjetoPizzaria\\Views\\Pizza\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T00:36:37.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "ProjetoPizzaria\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:34:55.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Services\\Pizza\\PizzaService.cs",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Services\\Pizza\\PizzaService.cs",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Services\\Pizza\\PizzaService.cs",
+              "RelativeToolTip": "ProjetoPizzaria\\Services\\Pizza\\PizzaService.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAkwIkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:27:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPizzaInterface.cs",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Services\\Pizza\\IPizzaInterface.cs",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Services\\Pizza\\IPizzaInterface.cs",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Services\\Pizza\\IPizzaInterface.cs",
+              "RelativeToolTip": "ProjetoPizzaria\\Services\\Pizza\\IPizzaInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:22:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoPizzaria\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T00:06:47.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoPizzaria\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Programas C#\\ProjetoPizzaria\\ProjetoPizzaria\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoPizzaria\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:06:19.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
